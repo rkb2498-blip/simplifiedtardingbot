@@ -1,0 +1,2 @@
+# simplifiedtardingbot
+Simplified Trading Bot (Binance Futures Testnet)
